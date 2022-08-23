@@ -43,6 +43,7 @@ article {
   gap: 10px;
   scroll-snap-margin-top: 5em;
   scroll-margin-top: 5em;
+  scroll-behavior: smooth;
   display: grid;
   display: -ms-grid;
 }
